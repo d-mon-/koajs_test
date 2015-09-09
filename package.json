@@ -1,0 +1,19 @@
+{
+  "name": "koajs_test",
+  "version": "1.0.0",
+  "description": "simple test with koa and node 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "guerin olivier",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.0.0"
+  }
+}
