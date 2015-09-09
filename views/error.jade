@@ -1,0 +1,13 @@
+//
+   Created by onegai on 09/09/2015.
+
+doctype html
+html(lang="en")
+   head
+   title = "test"
+   body
+      h1 error
+      if err && err.status && err.message
+         p=err.status+' '+err.message
+      else
+         p a problem occurred
